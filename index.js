@@ -11,7 +11,7 @@ function doSomehing() {
 }
 
 
-// @todo #1 more to do
+
 function moretodo2() {
 
 }
