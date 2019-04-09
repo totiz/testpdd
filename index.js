@@ -10,4 +10,9 @@ function doSomehing() {
   console.log('i tried hard')
 }
 
+
+// @todo #1 more to do
+function moretodo2() {
+
+}
 sayHi()
