@@ -6,7 +6,7 @@ function sayHi() {
 }
 
 
-// @todo: we should do something here
+// @todo #2 we should do something here
 function doSomehing() {
   
 }
