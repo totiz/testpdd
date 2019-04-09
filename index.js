@@ -1,12 +1,11 @@
 
 
-// #1 speak more please!!
 function sayHi() {
   console.log('hi, how are you?')
 }
 
 
-// #2 we should do something here
+// I'm good
 function doSomehing() {
   console.log('i tried hard')
 }
