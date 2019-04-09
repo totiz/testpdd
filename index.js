@@ -1,16 +1,14 @@
 
 
-// done it speak more please!!
+// @todo #1 speak more please!!
 function sayHi() {
-  console.log('hi, how are you hope to?')
-
+  console.log('hi, how are you?')
 }
 
 
+// @todo #2 we should do something here
 function doSomehing() {
   console.log('i tried hard')
-
-  console.log('Yeah we done it')
 }
 
 sayHi()
