@@ -1,6 +1,6 @@
 
 
-// @todo: #1 speak more please!!
+// @todo speak more please!!
 function sayHi() {
   console.log('hi, how are you?')
 }
