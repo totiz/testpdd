@@ -8,7 +8,7 @@ function sayHi() {
 
 // @todo #2 we should do something here
 function doSomehing() {
-  
+  console.log('i tried hard')
 }
 
 sayHi()
